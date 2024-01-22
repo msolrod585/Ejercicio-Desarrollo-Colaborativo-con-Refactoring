@@ -5,6 +5,9 @@ El precio final debe incluir el 21% del impuesto general a las ventas, IVA.
 Diseñe un algoritmo que determine el precio a pagar por el alquiler de un vehículo y el totalincluido el impuesto.
 
 #2. Realiza un programa que pida al usuario dos enteros, estos enteros se pasan como parámetros a una función que muestra todos los números comprendidos entre ellos, inclusive.
+He cambiado el nombre de las variables por unos mas correctos, he indentado el codigo y he corregido errores ortograficos
 #3. Escribir una aplicación que solicite al usuario cuántos números desea introducir. A continuación, se introducirá por teclado esa cantidad de números enteros, y por último, los mostrará en el orden inverso al introducido.
+
 #4.Diseñar un programa que solicite al usuario una frase y una palabra. A continuaciónbuscará cuántas veces aparece la palabra en la frase.
+
 #5.Algoritmo que lea caracteres hasta que el carácter leído sea una Z y nos muestre elnúmero de caracteres leídos que son vocales.
